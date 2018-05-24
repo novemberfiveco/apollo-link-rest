@@ -52,7 +52,7 @@ package-lock.json
 
 # Compiled
 dist
-lib
+# lib
 
 .idea
 .vscode
